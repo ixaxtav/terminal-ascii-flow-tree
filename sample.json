@@ -1,0 +1,17 @@
+{
+  "nodes": [
+    { "name": "Company A" },
+    { "name": "Company B" },
+    { "name": "Total Applications" },
+    { "name": "Phone Screen" },
+    { "name": "1st Interview" },
+    { "name": "Rejected" }
+  ],
+  "links": [
+    { "source": 0, "target": 2, "value": 1590 },
+    { "source": 1, "target": 2, "value": 1200 },
+    { "source": 2, "target": 3, "value": 339 },
+    { "source": 3, "target": 4, "value": 327 },
+    { "source": 4, "target": 5, "value": 59 }
+  ]
+}
